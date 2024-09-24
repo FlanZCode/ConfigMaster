@@ -1,0 +1,19 @@
+{
+  "name": "configmaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlanZCode/ConfigMaster.git"
+  },
+  "author": "FlanZCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlanZCode/ConfigMaster/issues"
+  },
+  "homepage": "https://github.com/FlanZCode/ConfigMaster#readme"
+}
